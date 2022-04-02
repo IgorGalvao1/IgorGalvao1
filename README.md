@@ -38,7 +38,7 @@
 <p align="center"> 𝙰𝚌𝚎𝚛 𝙽𝚒𝚝𝚛𝚘 𝟻
 <p align="center"> <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
-<br><br><br>
+<br>
 <h2 align="center">❄️ ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ ❄️</h2>
 <div align="center">
 <img src="https://64.media.tumblr.com/6ebdf70e97d56ecf7eb0350d2f29c437/9117154657a8353a-db/s540x810/3ff1eaf608ffb27a98d5fce410e42c81da8fc797.gifv">
