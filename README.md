@@ -41,9 +41,7 @@
 <br>
 <h2 align="center">❄️ ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ ❄️</h2>
 <div align="center">
-<img src="https://64.media.tumblr.com/6ebdf70e97d56ecf7eb0350d2f29c437/9117154657a8353a-db/s540x810/3ff1eaf608ffb27a98d5fce410e42c81da8fc797.gifv">
-<hr>
-  <p aling="center"> <img src="https://img.shields.io/github/watchers/IgorGalvao1/IgorGalvao1.svg"/>
+<img src="https://c.tenor.com/BybCTA7jgP4AAAAC/takt-op-destiny.gif">
 </div>
 </div>
 </div>
